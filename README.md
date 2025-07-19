@@ -3,7 +3,7 @@
 A beautiful, cross-platform GUI wrapper for yt-dlp with a modern blue interface.
 
 ![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
-![Platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-lightgrey.svg)
+![Platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-F15437.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## Features
